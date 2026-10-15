@@ -47,3 +47,5 @@ This repository is the **Silicon Valley Academy edition**: a modified, self-cont
 
 * All of our published skills: [github.com/sva-admin/claude-skills](https://github.com/sva-admin/claude-skills)
 * Courses and free lessons: [sv-academy.org](https://sv-academy.org)
+
+SV Academy is the education brand of [Silicon Valley Innovation](https://svinnovation.com), a Bangkok software and AI company that can build this for your business.
